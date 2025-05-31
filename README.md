@@ -32,6 +32,19 @@ I'm **Johnson Gabriel**, a passionate Python Backend Developer who loves buildin
 
 ---
 
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codewithgabby&show_icons=true&theme=github_dark&hide_title=true" alt="Gabriel's GitHub Stats" height="160">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=codewithgabby&theme=github-dark&hide_border=true" alt="GitHub Streak" height="160">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithgabby&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="160">
+</p>
+
+---
+
 ## 📢 Let's Connect!
 
 - 🌐 Portfolio: [gabbydev.netlify.app](https://gabbydev.netlify.app)  
