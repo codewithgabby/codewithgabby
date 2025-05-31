@@ -34,13 +34,34 @@ I'm **Johnson Gabriel**, a passionate Python Backend Developer who loves buildin
 
 ## 📊 GitHub Stats & Activity
 
+<!-- GitHub Stats - Theme-Aware -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codewithgabby&show_icons=true&theme=github_dark&hide_title=true" alt="Gabriel's GitHub Stats" height="160">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=codewithgabby&theme=github-dark&hide_border=true" alt="GitHub Streak" height="160">
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithgabby&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="160">
+  <!-- Dark Mode -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=codewithgabby&show_icons=true&theme=github_dark&hide_title=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=codewithgabby&show_icons=true&theme=default&hide_title=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=codewithgabby&show_icons=true" alt="Gabriel's GitHub Stats" height="160" />
+  </picture>
+
+  <br/>
+
+  <!-- GitHub Streak -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=codewithgabby&theme=github-dark&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=codewithgabby&theme=default&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=codewithgabby" alt="GitHub Streak" height="160" />
+  </picture>
+
+  <br/>
+
+  <!-- Top Languages -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithgabby&layout=compact&theme=github_dark&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithgabby&layout=compact&theme=default&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithgabby&layout=compact" alt="Top Languages" height="160" />
+  </picture>
+
 </p>
 
 ---
