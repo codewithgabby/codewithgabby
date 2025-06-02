@@ -28,7 +28,7 @@ I'm **Johnson Gabriel**, a passionate Python Backend Developer who loves buildin
 
 - 📘 **Book Manager API** – [View Repo](https://github.com/codewithgabby/book-manager-api)  
 - 📋 **Todo Task Manager** – [View Repo](https://github.com/codewithgabby/todo-api)  
-- 📅 **Event RSVP System** – [View Repo](https://github.com/codewithgabby/event-rsvp-api)
+- 📅 **Job Board API** – [View Repo](https://github.com/codewithgabby/event-rsvp-api)
 
 ---
 
