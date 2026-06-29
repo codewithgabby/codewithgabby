@@ -63,8 +63,7 @@ I am **Johnson Gabriel**, a passionate Python Backend Developer who loves buildi
 -  Portfolio: [gabbydev.netlify.app](https://gabbydev.netlify.app)  
 -  LinkedIn: [linkedin.com/in/johnson-gabriel-b716aa212](https://www.linkedin.com/in/johnson-gabriel-b716aa212/)  
 -  GitHub: [github.com/codewithgabby](https://github.com/codewithgabby)  
--  TikTok: [@codewithgabby](https://tiktok.com/@codewithgabby)  
--  Email: johnfem4real@gmail.com
+-  Email: j.gabriel.dev77@gmail.com
 
 ---
 
