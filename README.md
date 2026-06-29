@@ -24,14 +24,6 @@ I am **Johnson Gabriel**, a passionate Python Backend Developer who loves buildi
 
 ---
 
-##  Featured Backend Projects
-
--  **Book Manager API** – [View Repo](https://github.com/codewithgabby/book-manager-api)  
--  **Todo Task Manager** – [View Repo](https://github.com/codewithgabby/todo-api)  
--  **Job Board API** – [View Repo](https://github.com/codewithgabby/job_board_api)
-
----
-
 ##  GitHub Stats & Activity
 
 <!-- GitHub Stats - Theme-Aware -->
